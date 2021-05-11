@@ -1,2 +1,2 @@
-# webgurudev
-This is a Blog website related to Affiliate Marketing.
+# Blooger_Website
+This is the complete blooger website create using html and css
