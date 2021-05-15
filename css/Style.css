@@ -86,6 +86,11 @@ p{
     color: var(--text-light);
 }
 
+li{
+    font-family: var(--Lexend);
+    color: var(--text-light);
+}
+
 /* ------x------- Global Classes -------x-------*/
 
 /* --------------- navbar ----------------- */
